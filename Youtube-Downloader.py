@@ -1,4 +1,4 @@
-# pytube practice downloading from youtube
+# downloading from youtube
 import yt_dlp as youtube_dl
 
 SAVE_PATH = 'C:/Users/ztben/Downloaded_Videos'
